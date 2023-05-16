@@ -1,1 +1,3 @@
-# hello_rust
+# Learning Rust
+
+> [source](https://doc.rust-lang.org/book)
