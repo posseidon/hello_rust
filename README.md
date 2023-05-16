@@ -1,3 +1,3 @@
 # Learning Rust
 
-> [source](https://doc.rust-lang.org/book)
+> [rust-lang book](https://doc.rust-lang.org/book)
